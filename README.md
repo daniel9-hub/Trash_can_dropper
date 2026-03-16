@@ -6,3 +6,4 @@ This is a game about trying to drop trash into a trash can
 - When you miss, you can try again
 - To run the game, just run trashcandropper.exe
 # Screenshot
+<img width="1277" height="746" alt="Image" src="https://github.com/user-attachments/assets/3b64e679-62ec-45d0-a93a-947ad1129bae" />
